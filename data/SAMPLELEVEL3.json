@@ -9,5 +9,11 @@
     "fps": "240-360",
     "handcam": "Not Required",
     "records": [
-    ]
-}
+    {
+             "user": "ekleraaa",
+             "link": "",
+             "percent": 100,
+             "hz": 240
+             }
+      ]
+} 
