@@ -1,13 +1,13 @@
 {
-    "id": 57436521,
-    "name": "SAMPLELEVEL2",
-    "author": "Solo_Creator",
-    "creators": [],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "id": 125967349,
+    "name": "Gygio gangs",
+    "author": "ignaslol",
+    "creators": "ignaslol",
+    "verifier": "Keza",
+    "verification": "https://medal.tv/games/geometry-dash/clips/l6ihkOcWTL7irusD6?invite=cr-MSxVcVosNDEzNzA5NTE0",
     "percentToQualify": "100",
     "fps": "240-360",
-    "handcam": "Required",
+    "handcam": "Not Required",
     "records": [
     ]
 }
